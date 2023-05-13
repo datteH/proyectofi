@@ -1,0 +1,59 @@
+﻿@model UserForAuthenticationDto
+@{
+    ViewData["Title"] = "Login";
+}
+<div class="row justify-content-center logincenter">
+    <div class="col-lg-5">
+        <div class="card shadow-lg border-0 rounded-lg mt-5">
+            <div class="card-header">
+                <!--h4 class="text-center font-weight-light my-2">@ViewData["Title"]</!--h4-->
+                <img src="img/utec_logo1.png">
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="row">
+                            <div class="col-3">
+                                <img src="img/user.png" class="w100">
+
+                            </div>
+                            <div class="col-9">
+                                <form asp-action="Login">
+                                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                                    <div class="form-floating mb-3">
+                                        <input asp-for="Username" class="form-control" value="test@outlook.com" />
+                                        <label asp-for="Username" class="control-label"></label>
+                                        <span asp-validation-for="Username" class="text-danger"></span>
+                                    </div>
+
+                                    <div class="form-floating mb-3">
+                                        <label asp-for="Password" class="control-label"></label>
+                                        <input type="password" asp-for="Password" class="form-control" value="test123#" />
+                                        <span asp-validation-for="Password" class="text-danger"></span>
+                                    </div>
+
+                                    <div class="form-check mb-3">
+                                        <label class="form-check-label">
+                                            <input class="form-check-input" asp-for="RememberMe" /> @Html.DisplayNameFor(model => model.RememberMe)
+                                        </label>
+                                    </div>
+
+                                    <div class="d-flex mt-3 justify-content-between">
+                                        <input type="submit" value="Entrar" class="btnstyle" />
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    }

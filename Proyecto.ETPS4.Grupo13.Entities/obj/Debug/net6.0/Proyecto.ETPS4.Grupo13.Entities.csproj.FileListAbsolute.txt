@@ -1,0 +1,14 @@
+C:\Users\AlanH\OneDrive\Escritorio\prueba2\proyecto-etps4-grupo13\Proyecto.ETPS4.Grupo13.Entities\bin\Debug\net6.0\Proyecto.ETPS4.Grupo13.Entities.deps.json
+C:\Users\AlanH\OneDrive\Escritorio\prueba2\proyecto-etps4-grupo13\Proyecto.ETPS4.Grupo13.Entities\bin\Debug\net6.0\Proyecto.ETPS4.Grupo13.Entities.runtimeconfig.json
+C:\Users\AlanH\OneDrive\Escritorio\prueba2\proyecto-etps4-grupo13\Proyecto.ETPS4.Grupo13.Entities\bin\Debug\net6.0\Proyecto.ETPS4.Grupo13.Entities.dll
+C:\Users\AlanH\OneDrive\Escritorio\prueba2\proyecto-etps4-grupo13\Proyecto.ETPS4.Grupo13.Entities\bin\Debug\net6.0\Proyecto.ETPS4.Grupo13.Entities.pdb
+C:\Users\AlanH\OneDrive\Escritorio\prueba2\proyecto-etps4-grupo13\Proyecto.ETPS4.Grupo13.Entities\obj\Debug\net6.0\Proyecto.ETPS4.Grupo13.Entities.csproj.AssemblyReference.cache
+C:\Users\AlanH\OneDrive\Escritorio\prueba2\proyecto-etps4-grupo13\Proyecto.ETPS4.Grupo13.Entities\obj\Debug\net6.0\Proyecto.ETPS4.Grupo13.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlanH\OneDrive\Escritorio\prueba2\proyecto-etps4-grupo13\Proyecto.ETPS4.Grupo13.Entities\obj\Debug\net6.0\Proyecto.ETPS4.Grupo13.Entities.AssemblyInfoInputs.cache
+C:\Users\AlanH\OneDrive\Escritorio\prueba2\proyecto-etps4-grupo13\Proyecto.ETPS4.Grupo13.Entities\obj\Debug\net6.0\Proyecto.ETPS4.Grupo13.Entities.AssemblyInfo.cs
+C:\Users\AlanH\OneDrive\Escritorio\prueba2\proyecto-etps4-grupo13\Proyecto.ETPS4.Grupo13.Entities\obj\Debug\net6.0\Proyecto.ETPS4.Grupo13.Entities.csproj.CoreCompileInputs.cache
+C:\Users\AlanH\OneDrive\Escritorio\prueba2\proyecto-etps4-grupo13\Proyecto.ETPS4.Grupo13.Entities\obj\Debug\net6.0\Proyecto.ETPS4.Grupo13.Entities.dll
+C:\Users\AlanH\OneDrive\Escritorio\prueba2\proyecto-etps4-grupo13\Proyecto.ETPS4.Grupo13.Entities\obj\Debug\net6.0\refint\Proyecto.ETPS4.Grupo13.Entities.dll
+C:\Users\AlanH\OneDrive\Escritorio\prueba2\proyecto-etps4-grupo13\Proyecto.ETPS4.Grupo13.Entities\obj\Debug\net6.0\Proyecto.ETPS4.Grupo13.Entities.pdb
+C:\Users\AlanH\OneDrive\Escritorio\prueba2\proyecto-etps4-grupo13\Proyecto.ETPS4.Grupo13.Entities\obj\Debug\net6.0\Proyecto.ETPS4.Grupo13.Entities.genruntimeconfig.cache
+C:\Users\AlanH\OneDrive\Escritorio\prueba2\proyecto-etps4-grupo13\Proyecto.ETPS4.Grupo13.Entities\obj\Debug\net6.0\ref\Proyecto.ETPS4.Grupo13.Entities.dll

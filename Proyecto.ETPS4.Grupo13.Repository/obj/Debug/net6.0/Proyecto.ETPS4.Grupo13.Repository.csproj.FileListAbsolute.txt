@@ -1,0 +1,15 @@
+C:\Users\AlanH\OneDrive\Escritorio\prueba2\proyecto-etps4-grupo13\Proyecto.ETPS4.Grupo13.Repository\bin\Debug\net6.0\Proyecto.ETPS4.Grupo13.Repository.deps.json
+C:\Users\AlanH\OneDrive\Escritorio\prueba2\proyecto-etps4-grupo13\Proyecto.ETPS4.Grupo13.Repository\bin\Debug\net6.0\Proyecto.ETPS4.Grupo13.Repository.dll
+C:\Users\AlanH\OneDrive\Escritorio\prueba2\proyecto-etps4-grupo13\Proyecto.ETPS4.Grupo13.Repository\bin\Debug\net6.0\Proyecto.ETPS4.Grupo13.Repository.pdb
+C:\Users\AlanH\OneDrive\Escritorio\prueba2\proyecto-etps4-grupo13\Proyecto.ETPS4.Grupo13.Repository\bin\Debug\net6.0\Proyecto.ETPS4.Grupo13.Entities.dll
+C:\Users\AlanH\OneDrive\Escritorio\prueba2\proyecto-etps4-grupo13\Proyecto.ETPS4.Grupo13.Repository\bin\Debug\net6.0\Proyecto.ETPS4.Grupo13.Entities.pdb
+C:\Users\AlanH\OneDrive\Escritorio\prueba2\proyecto-etps4-grupo13\Proyecto.ETPS4.Grupo13.Repository\obj\Debug\net6.0\Proyecto.ETPS4.Grupo13.Repository.csproj.AssemblyReference.cache
+C:\Users\AlanH\OneDrive\Escritorio\prueba2\proyecto-etps4-grupo13\Proyecto.ETPS4.Grupo13.Repository\obj\Debug\net6.0\Proyecto.ETPS4.Grupo13.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlanH\OneDrive\Escritorio\prueba2\proyecto-etps4-grupo13\Proyecto.ETPS4.Grupo13.Repository\obj\Debug\net6.0\Proyecto.ETPS4.Grupo13.Repository.AssemblyInfoInputs.cache
+C:\Users\AlanH\OneDrive\Escritorio\prueba2\proyecto-etps4-grupo13\Proyecto.ETPS4.Grupo13.Repository\obj\Debug\net6.0\Proyecto.ETPS4.Grupo13.Repository.AssemblyInfo.cs
+C:\Users\AlanH\OneDrive\Escritorio\prueba2\proyecto-etps4-grupo13\Proyecto.ETPS4.Grupo13.Repository\obj\Debug\net6.0\Proyecto.ETPS4.Grupo13.Repository.csproj.CoreCompileInputs.cache
+C:\Users\AlanH\OneDrive\Escritorio\prueba2\proyecto-etps4-grupo13\Proyecto.ETPS4.Grupo13.Repository\obj\Debug\net6.0\Proyecto.ETPS4.Grupo13.Repository.csproj.CopyComplete
+C:\Users\AlanH\OneDrive\Escritorio\prueba2\proyecto-etps4-grupo13\Proyecto.ETPS4.Grupo13.Repository\obj\Debug\net6.0\Proyecto.ETPS4.Grupo13.Repository.dll
+C:\Users\AlanH\OneDrive\Escritorio\prueba2\proyecto-etps4-grupo13\Proyecto.ETPS4.Grupo13.Repository\obj\Debug\net6.0\refint\Proyecto.ETPS4.Grupo13.Repository.dll
+C:\Users\AlanH\OneDrive\Escritorio\prueba2\proyecto-etps4-grupo13\Proyecto.ETPS4.Grupo13.Repository\obj\Debug\net6.0\Proyecto.ETPS4.Grupo13.Repository.pdb
+C:\Users\AlanH\OneDrive\Escritorio\prueba2\proyecto-etps4-grupo13\Proyecto.ETPS4.Grupo13.Repository\obj\Debug\net6.0\ref\Proyecto.ETPS4.Grupo13.Repository.dll

@@ -1,0 +1,53 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  background-color: #5d0a28;
+}
+.card-header {
+    display: flex;
+    justify-content: center;
+    background-color: #75193b;
+    border-bottom: 0px solid rgba(0,0,0,.125);
+}
+.w100{
+    width:100%;
+}
+.card-body {
+    background-color: #75193b;
+}
+.btnstyle {
+    background-color: #212121;
+    color: white;
+    padding: 5px 15px;
+    border: none;
+    border-radius: 4px;
+}
+.logincenter {
+    height: 89vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bgw {
+    background-color: white;
+    border-radius: 10px;
+    padding: 100px 75px;
+}
+.logout {
+    position: absolute;
+    right: 10px;
+}
